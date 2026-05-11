@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing B.Tech in AIML<br>Check out my resume here - My Resume<br>All of my projects are available on GitHub<br>Ask me about Programming, AI/ML<br>Reach out to me at jagadishhugar2207@gmail.com
+I'm currently pursuing B.Tech in AIML<br>Check out my resume here - My Resume<br>All of my projects are available on [![GitHub]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar](https://github.com/jagadishhugar)) <br>Ask me about Programming, AI/ML<br>Reach out to me at jagadishhugar2207@gmail.com
 
 
 ## 🌐 Socials:
