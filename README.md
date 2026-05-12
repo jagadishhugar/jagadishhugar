@@ -13,7 +13,6 @@ I'm currently pursuing B.Tech in AIML<br>Check out my resume here - My Resume<br
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadishhugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jagadishhugar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jagadishhugar&icon=0&color=0)](https://visitcount.itsvg.in)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://gprm.itsvg.in/#:~:text=my%20resume%20here%20%2D-,My%20Resume,-All%20of%20my)
