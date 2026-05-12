@@ -4,7 +4,7 @@
 <li>Check out my resume here - My Resume<br></li>
 <li>All of my projects are available on <a href="https://github.com/jagadishhugar">GitHub</a> <br></li>
 <li>Ask me about Programming, AI/ML<br></li>
-<li>Reach out to me at <a href="jagadishhugar2207@gmail.com"></li>
+<li>Reach out to me at <a href="jagadishhugar2207@gmail.com">jagadish</a></li>
 </ul>
 
 ## 🌐 Socials:
