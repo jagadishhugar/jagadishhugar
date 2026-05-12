@@ -1,7 +1,7 @@
 💫 About Me:<br>
 <ul>
 <li>I'm currently pursuing B.Tech in AIML<br></li>
-<li>Check out my resume here - My Resume<br></li>
+<li>Check out my resume here - <a href="https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=drive_link">My Resume</a><br></li>
 <li>All of my projects are available on <a href="https://github.com/jagadishhugar">GitHub</a> <br></li>
 <li>Ask me about Programming, AI/ML<br></li>
 <li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com"><b>jagadishhugar2207@gmail.com</b></a></li>
