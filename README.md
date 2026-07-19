@@ -54,7 +54,7 @@ From writing complex SQL queries and building efficient database schemas to engi
 
 <hr>
 
-### 🌱 Currently learning
+### 🌱 Currently learning:
 
 * Adavance SQL
 * Machine Learning
