@@ -45,8 +45,11 @@ From writing complex SQL queries and building efficient database schemas to engi
 * 📊 Power BI & Tableau
 * 🐙 Git & GitHub
 * 📝 Microsoft Excel
-  
+
+### Currently learning
+* Adavance SQL
+* Machine Learning
+* Deep Learning
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jagadishhugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jagadishhugar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadishhugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
