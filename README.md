@@ -52,7 +52,10 @@ From writing complex SQL queries and building efficient database schemas to engi
 * 🐙 Git & GitHub
 * 📝 Microsoft Excel
 
-### Currently learning
+<hr>
+
+### 🌱 Currently learning
+
 * Adavance SQL
 * Machine Learning
 * Deep Learning
