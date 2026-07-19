@@ -5,6 +5,18 @@
   <p>📊 Aspiring Data Scientist | AI & Data Analytics Enthusiast</p>
   <p>🌱 Always learning, building, and improving one project at a time.</p>
 </div>
+## 👩‍💻 About Me
+
+Hello! I'm an AI & Data Analytics enthusiast currently pursuing my B.Tech in AIML. My journey revolves around transforming numbers into narratives and raw data into intelligent, automated decisions.
+
+* **Data Science & ML:** I build predictive pipelines—handling everything from rigorous data preprocessing and feature engineering to model validation. My favorite projects involve forecasting trends and decoding customer behavior.
+* **Analytics & Databases:** I enjoy writing optimized relational database schemas and complex analytical SQL queries to extract meaningful insights efficiently.
+* **Agile Learner:** Beyond the data layer, I love exploring software engineering best practices, Agile frameworks, and systems programming to write clean, production-ready code.*
+* ## 👩‍💻 About Me
+
+I'm a B.Tech Artificial Intelligence & Machine Learning student and an aspiring Data Scientist dedicated to solving real-world challenges through data architectures and predictive modeling. 
+
+From writing complex SQL queries and building efficient database schemas to engineering features for machine learning models, I love working across the entire data lifecycle. I am highly focused on writing clean code, applying Agile methodologies, and consistently shipping end-to-end data analytics projects. 
 💫 About Me:<br>
 <ul>
 <li>I'm currently pursuing B.Tech in AIML<br></li>
