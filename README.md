@@ -4,7 +4,9 @@
   <p>📊 Aspiring Data Scientist | AI & Data Analytics Enthusiast</p>
   <p>🌱 Always learning, building, and improving one project at a time.</p>
 </div>
+
 <hr>
+
 <h1>👩‍💻 About Me</h1>
 
 I'm a B.Tech Artificial Intelligence & Machine Learning student and an aspiring Data Scientist dedicated to solving real-world challenges through data architectures and predictive modeling. 
@@ -19,10 +21,14 @@ From writing complex SQL queries and building efficient database schemas to engi
 <li>All of my projects are available on <a href="https://github.com/jagadishhugar">GitHub</a> <br></li>
 <li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com"><b>jagadishhugar2207@gmail.com</b></a></li>
 </ul>
+
 <hr>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadishhugar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
+
 <hr>
+
 ## 💻 Tech Stack:
 
 ### Programming Languages
@@ -50,6 +56,8 @@ From writing complex SQL queries and building efficient database schemas to engi
 * Adavance SQL
 * Machine Learning
 * Deep Learning
+
 <hr>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadishhugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
