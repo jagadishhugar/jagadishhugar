@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>Hi there! 👋 I'm [Your Name]</h1>
+  
+  <p>🎓 B.Tech Student in Artificial Intelligence & Machine Learning</p>
+  <p>📊 Aspiring Data Scientist | AI & Data Analytics Enthusiast</p>
+  <p>🌱 Always learning, building, and improving one project at a time.</p>
+</div>
 💫 About Me:<br>
 <ul>
 <li>I'm currently pursuing B.Tech in AIML<br></li>
