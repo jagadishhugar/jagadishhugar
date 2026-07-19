@@ -5,7 +5,7 @@
   <p>📊 Aspiring Data Scientist | AI & Data Analytics Enthusiast</p>
   <p>🌱 Always learning, building, and improving one project at a time.</p>
 </div>
-<br>
+<hr>
 <h1>👩‍💻 About Me</h1>
 
 I'm a B.Tech Artificial Intelligence & Machine Learning student and an aspiring Data Scientist dedicated to solving real-world challenges through data architectures and predictive modeling. 
