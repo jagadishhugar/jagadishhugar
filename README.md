@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm [Your Name]</h1>
-  
+  <h1>Hi there! 👋 I'm Jagadish Hugar</h1>
   <p>🎓 B.Tech Student in Artificial Intelligence & Machine Learning</p>
   <p>📊 Aspiring Data Scientist | AI & Data Analytics Enthusiast</p>
   <p>🌱 Always learning, building, and improving one project at a time.</p>
@@ -14,9 +13,10 @@ From writing complex SQL queries and building efficient database schemas to engi
 <br>
 <ul>
 <li>I'm currently pursuing B.Tech in AIML<br></li>
+<li>Ask me about Programming, Data Science, AI/ML<br></li>
 <li>Check out my resume here - <a href="https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=drive_link">My Resume</a><br></li>
+<li>Check out my Portfolio here - <a href="https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=drive_link">My Portfolio</a><br></li>
 <li>All of my projects are available on <a href="https://github.com/jagadishhugar">GitHub</a> <br></li>
-<li>Ask me about Programming, AI/ML<br></li>
 <li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com"><b>jagadishhugar2207@gmail.com</b></a></li>
 </ul>
 
@@ -46,7 +46,7 @@ From writing complex SQL queries and building efficient database schemas to engi
 * 🐙 Git & GitHub
 * 📝 Microsoft Excel
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jagadishhugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jagadishhugar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadishhugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
