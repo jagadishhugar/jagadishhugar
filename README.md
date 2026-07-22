@@ -2,7 +2,7 @@
   <h1>Hi there! 👋 I'm Jagadish Hugar</h1>
   <p>🎓 B.Tech Student in Artificial Intelligence & Machine Learning</p>
   <p>📊 Aspiring Data Scientist | AI & Data Analytics Enthusiast</p>
-  <p>🌱 Always learning, building, and improving one project at a time.</p>
+  <p>🌱 Always learning, building, and keep improving.</p>
 </div>
 
 <hr>
