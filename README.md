@@ -15,11 +15,12 @@ From writing complex SQL queries and building efficient database schemas to engi
 
 * I'm currently pursuing B.Tech in AIML
 * Ask me about Programming, Data Science, AI/ML
-* Check out my resume here -[![Resume](https://shields.io/badge/Resume-#2B2D42.svg?logo=readme)](https://google.com)
+* Check out my resume here -[![Resume](https://shields.io/badge/Resume-#5395FD.svg?logo=30secondsofcode)](https://google.com)
 * Check out my Portfolio here - [![Portfolio](https://shields.io/badge/)](https://github.io)
 * Reach out to me at [![Portfolio](https://shields.io)](https://github.io)
 
 <hr>
+30secondsofcode
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadishhugar) [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2.svg?logo=GitHub&logoColor=white)](https://github.com/jagadishhugar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
