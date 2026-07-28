@@ -16,7 +16,9 @@ From writing complex SQL queries and building efficient database schemas to engi
 * I'm currently pursuing B.Tech in AIML
 * Ask me about Programming, Data Science, AI/ML
 * Check out my resume here -[![Resume](https://shields.io/badge/Resume-FF0000.svg?logo=readthedocs&logoColor=white)](https://google.com)
+* [![Resume](https://shields.io/badge/Resume-18181A.svg?logo=readthedocs&logoColor=white)](https://google.com)
 * Check out my Portfolio here - [![Portfolio](https://shields.io/badge/My_Portfolio-4285F4.svg?logo=mainwp&logoColor=white)](https://github.io)
+* [![Portfolio](https://shields.io/badge/My_Portfolio-22272E.svg?logo=mainwp&logoColor=white)](https://github.io)
 * Reach out to me at [![Portfolio](https://shields.io)](https://github.io)
 
 <hr>
