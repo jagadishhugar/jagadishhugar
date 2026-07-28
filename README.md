@@ -15,9 +15,9 @@ From writing complex SQL queries and building efficient database schemas to engi
 
 * I'm currently pursuing B.Tech in AIML
 * Ask me about Programming, Data Science, AI/ML
-* Check out my resume here - [My Resume](https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=drive_link)
+* Check out my resume here -[![Resume](https://shields.io)](https://google.com)
 * Check out my Portfolio here - [My Portfolio](https://jagadishhugar.github.io/portfolio)
-* Reach out to me at [jagadishhugar2207@gmail.com](mailto:jagadishhugar2207@gmail.com)
+* Reach out to me at [![Portfolio](https://shields.io)](https://github.io)
 
 <hr>
 
