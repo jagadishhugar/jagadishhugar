@@ -11,15 +11,13 @@
 
 I'm a B.Tech Artificial Intelligence & Machine Learning student and an aspiring Data Scientist dedicated to solving real-world challenges through data architectures and predictive modeling. 
 
-From writing complex SQL queries and building efficient database schemas to engineering features for machine learning models, I love working across the entire data lifecycle. I am highly focused on writing clean code, applying Agile methodologies, and consistently shipping end-to-end data analytics projects.
+From writing optimal SQL queries and building efficient database schemas to engineering features for machine learning models, I love working across the entire data lifecycle. I am highly focused on writing clean code, applying Agile methodologies, and consistently shipping end-to-end data analytics projects.
 
 * I'm currently pursuing B.Tech in AIML
 * Ask me about Programming, Data Science, AI/ML
 * Check out my resume here -[![Resume](https://shields.io/badge/My_Resume-FF0000.svg?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=sharing)
 * Check out my Portfolio here - [![Portfolio](https://shields.io/badge/My_Portfolio-4285F4.svg?logo=mainwp&logoColor=white)](https://jagadishhugar.github.io/portfolio)
 * Reach out to me at - [![email](https://img.shields.io/badge/Mail_Me-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com)
-* Reach out to me at [jagadishhugar2207@gmail.com](https://google.com)
-* Reach out to me at [jagadishhugar2207@gmail.com](mailto:jagadishhugar2207@gmail.com)
 
 <hr>
 
