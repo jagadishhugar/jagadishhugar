@@ -33,8 +33,10 @@ From writing complex SQL queries and building efficient database schemas to engi
 
 ### Programming Languages
 * 🐍 Python
-* ☕ Java
 * 💻 C
+* 🧱 HTML
+* 🎨 CSS
+* ☕ Java
 
 ### Data Analytics
 * 🐼 Pandas
@@ -56,9 +58,9 @@ From writing complex SQL queries and building efficient database schemas to engi
 
 ## 🌱 Currently learning:
 
-* Adavance SQL
-* Machine Learning
-* Deep Learning
+* 🗄️ Adavance SQL
+* 🤖 Machine Learning
+* 🧠 Deep Learning
 
 <hr>
 
