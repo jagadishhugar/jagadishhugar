@@ -20,8 +20,10 @@ From writing complex SQL queries and building efficient database schemas to engi
 <li>Check out my Portfolio here - <a href="https://jagadishhugar.github.io/portfolio">My Portfolio</a><br></li>
 <li>All of my projects are available on <a href="https://github.com/jagadishhugar">GitHub</a> <br></li>
 <li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com"><b>jagadishhugar2207@gmail.com</b></a></li>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) 
 </ul>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) 
 <hr>
 
 ## 🌐 Socials:
