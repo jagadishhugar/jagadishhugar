@@ -5,26 +5,19 @@
   <p>🌱 Always learning, building, and keep improving.</p>
 </div>
 
-<hr>
+---
 
-<h1>👩‍💻 About Me</h1>
+# 👩‍💻 About Me
 
 I'm a B.Tech Artificial Intelligence & Machine Learning student and an aspiring Data Scientist dedicated to solving real-world challenges through data architectures and predictive modeling. 
 
-From writing complex SQL queries and building efficient database schemas to engineering features for machine learning models, I love working across the entire data lifecycle. I am highly focused on writing clean code, applying Agile methodologies, and consistently shipping end-to-end data analytics projects. 
-<br>
-<ul>
-<li>I'm currently pursuing B.Tech in AIML<br></li>
-<li>Ask me about Programming, Data Science, AI/ML<br></li>
-<li>Check out my resume here - <a href="https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=drive_link">My Resume</a><br></li>
-<li>Check out my Portfolio here - <a href="https://jagadishhugar.github.io/portfolio">My Portfolio</a><br></li>
-<li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com">jagadishhugar2207@gmail.com</a></li>
-  <a href="https://linkedin.com">
-  <a href="https://img.shields.io/badge/any_text-you_like-blue"></a>
-</a>
+From writing complex SQL queries and building efficient database schemas to engineering features for machine learning models, I love working across the entire data lifecycle. I am highly focused on writing clean code, applying Agile methodologies, and consistently shipping end-to-end data analytics projects.
 
-
-</ul>
+* I'm currently pursuing B.Tech in AIML
+* Ask me about Programming, Data Science, AI/ML
+* Check out my resume here - [My Resume](https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=drive_link)
+* Check out my Portfolio here - [My Portfolio](https://jagadishhugar.github.io/portfolio)
+* Reach out to me at [jagadishhugar2207@gmail.com](mailto:jagadishhugar2207@gmail.com)
 
 <hr>
 
