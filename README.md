@@ -20,7 +20,7 @@ From writing complex SQL queries and building efficient database schemas to engi
 <li>Check out my Portfolio here - <a href="https://jagadishhugar.github.io/portfolio">My Portfolio</a><br></li>
 <li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com">jagadishhugar2207@gmail.com</a></li>
   <a href="https://linkedin.com">
-  <img src=" https://img.shields.io/badge/any_text-you_like-blue" alt="Visit my LinkedIn profile">
+  <a href="https://img.shields.io/badge/any_text-you_like-blue"></a>
 </a>
 
 
