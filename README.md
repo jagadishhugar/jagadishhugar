@@ -33,6 +33,7 @@ From writing optimal SQL queries and building efficient database schemas to engi
 * 💻 C
 * 🧱 HTML
 * 🎨 CSS
+* 📜 JavaScript
 * ☕ Java
 
 ### Data Analytics
