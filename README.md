@@ -24,7 +24,7 @@ From writing complex SQL queries and building efficient database schemas to engi
 <hr>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadishhugar) [![GitHub](https://img.shields.io/badge/GitHub-#23E440.svg?logo=GitHub&logoColor=white)](https://github.com/jagadishhugar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadishhugar) [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2.svg?logo=GitHub&logoColor=white)](https://github.com/jagadishhugar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
 
 <hr>
 
