@@ -18,16 +18,13 @@ From writing complex SQL queries and building efficient database schemas to engi
 <li>Ask me about Programming, Data Science, AI/ML<br></li>
 <li>Check out my resume here - <a href="https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=drive_link">My Resume</a><br></li>
 <li>Check out my Portfolio here - <a href="https://jagadishhugar.github.io/portfolio">My Portfolio</a><br></li>
-<li>All of my projects are available on <a href="https://github.com/jagadishhugar">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) </a> <br></li>
-<li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com"><b>jagadishhugar2207@gmail.com</b></a></li>
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) 
+<li>Reach out to me at <a href="mailto:jagadishhugar2207@gmail.com">jagadishhugar2207@gmail.com</a></li>
 </ul>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) 
 <hr>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadishhugar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=GitHub&logoColor=white)](https://github.com/jagadishhugar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish__hugar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadishhugar) [![GitHub](https://img.shields.io/badge/GitHub-%23E4405F.svg?logo=GitHub&logoColor=white)](https://github.com/jagadishhugar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
 
 <hr>
 
