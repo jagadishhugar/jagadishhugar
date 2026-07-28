@@ -17,7 +17,7 @@ From writing complex SQL queries and building efficient database schemas to engi
 * Ask me about Programming, Data Science, AI/ML
 * Check out my resume here -[![Resume](https://shields.io/badge/My_Resume-FF0000.svg?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1PUSAIbvb6R_-MnndS1Spo_I6iXNooZ9p/view?usp=sharing)
 * Check out my Portfolio here - [![Portfolio](https://shields.io/badge/My_Portfolio-4285F4.svg?logo=mainwp&logoColor=white)](https://jagadishhugar.github.io/portfolio)
-* Reach out to me at - [![email](https://img.shields.io/badge/jagadishhugar2207-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
+* Reach out to me at - [![email](https://img.shields.io/badge/Mail_Me-D14836?logo=gmail&logoColor=white)](mailto:jagadishhugar2207@gmail.com) 
 
 <hr>
 30secondsofcode
