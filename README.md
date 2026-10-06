@@ -9,7 +9,7 @@
 
 # 👩‍💻 About Me
 
-I'm a B.Tech Artificial Intelligence & Machine Learning student and an aspiring Data Scientist dedicated to solving real-world challenges through data architectures and predictive modeling. 
+I'm a B.Tech Artificial Intelligence & Machine Learning student and an aspiring Data Scientist, AIML Engineer dedicated to solving real-world challenges through data architectures and predictive modeling. 
 
 From writing optimal SQL queries and building efficient database schemas to engineering features for machine learning models, I love working across the entire data lifecycle. I am highly focused on writing clean code, applying Agile methodologies, and consistently shipping end-to-end data analytics projects.
 
