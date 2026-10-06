@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Jagadish Hugar</h1>
+  <h1>Hi! 👋 I'm Jagadish Hugar</h1>
   <p>🎓 B.Tech Student in Artificial Intelligence & Machine Learning</p>
   <p>📊 Driven Data Scientist & AI/ML Specialist</p>
   <p>🌱 Continuous Learning | Productive Development | Systemic Improvement.</p>
